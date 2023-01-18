@@ -58,7 +58,6 @@ jupyter-console==6.4.3
 jupyter-core==4.10.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.0
-Keras==2.0.8
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
 libclang==13.0.0
@@ -131,7 +130,6 @@ tenacity==8.0.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
 tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 terminado==0.13.3
