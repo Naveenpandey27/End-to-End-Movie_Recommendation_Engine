@@ -1,0 +1,7 @@
+Python
+Streamlit
+Pandas
+Requests
+Pillow
+NLTK
+Sklearn
