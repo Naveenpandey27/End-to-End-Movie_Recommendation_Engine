@@ -4,6 +4,8 @@ A content-based recommender system that recommends movies similar to the movie g
 
 Check out the live demo:https://naveenpandey27-end-to-end-movie-recommendation-engin-app-yox39e.streamlit.app/
 
+Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 **output**
 
 ![outscree](https://user-images.githubusercontent.com/66298494/213917584-39ddc2d6-b34d-4a27-a9e9-bac3026189a2.png)
