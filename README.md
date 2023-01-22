@@ -55,6 +55,8 @@ The overview column is split into individual words and the 'genres', 'keywords',
 
 The final step is to calculate the cosine similarity between the movies based on their 'tags' column. The TfidfVectorizer function from sklearn is used to convert the text data in the 'tags' column into numerical data. The cosine_similarity function is then used to calculate the similarity between the movies.
 
+More about Cosine Similarity : Understanding the Math behind Cosine Similarity
+
 
 **User Interface**
 
