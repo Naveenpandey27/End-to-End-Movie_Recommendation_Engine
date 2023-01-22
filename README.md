@@ -30,6 +30,10 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
   
   streamlit run app.py
 
+  **4 - output**
+
+  Select a movie from the drop-down list Click on the **'Recommend'** button The recommended movies will be displayed along with their poster images.
+
 
 
 
@@ -67,9 +71,7 @@ The final output is displayed as a Streamlit app where the user can select a mov
 Clone the repository to your local machine
 Install the required libraries (numpy, pandas, nltk, sklearn, ast, pickle, streamlit, requests, PIL)
 Run the app.py file
-Select a movie from the drop-down list
-Click on the 'Recommend' button
-The recommended movies will be displayed along with their poster images.
+
 
 
 **Prerequisites**
