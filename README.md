@@ -55,7 +55,7 @@ The overview column is split into individual words and the 'genres', 'keywords',
 
 The final step is to calculate the cosine similarity between the movies based on their 'tags' column. The TfidfVectorizer function from sklearn is used to convert the text data in the 'tags' column into numerical data. The cosine_similarity function is then used to calculate the similarity between the movies.
 
-More about Cosine Similarity : (https://towardsdatascience.com/understanding-cosine-similarity-and-its-application-fd42f585296a)
+More about Cosine Similarity : https://towardsdatascience.com/understanding-cosine-similarity-and-its-application-fd42f585296a
 
 
 **User Interface**
@@ -63,7 +63,7 @@ More about Cosine Similarity : (https://towardsdatascience.com/understanding-cos
 The final output is displayed as a Streamlit app where the user can select a movie from a drop-down list and then get a list of recommended movies. The recommended movies are displayed along with their poster images.
 
 
-How to Use
+**How to Use**
 Clone the repository to your local machine
 Install the required libraries (numpy, pandas, nltk, sklearn, ast, pickle, streamlit, requests, PIL)
 Run the app.py file
