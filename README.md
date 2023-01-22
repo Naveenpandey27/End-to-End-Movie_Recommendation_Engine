@@ -1,4 +1,4 @@
-# End-to-End-Movie_Recommendation_Engine
+# End-to-End-Movie Recommendation Engine
 
 A content-based recommender system that recommends movies similar to the movie the user likes and analyses the sentiments of the reviews given by the user.
 
@@ -15,18 +15,20 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
 
 **How to run the project?**
 
-  1 - Clone the repository to your local machine
+  **1 - Clone the repository to your local machine**
 
   git clone https://github.com/<username>/movie-recommendation-engine.git
 
   
-  2 - Install the necessary packages
+  **2 - Install the necessary packages**
 
   pip install -r requirements.txt
 
-  3 - Run the application
+  **3 - Run the application**
   
   streamlit run app.py
+
+
 
 
 This is a movie recommendation engine built using Python and several machine learning libraries such as numpy, pandas, nltk, sklearn, and ast. The engine uses the TMDb movie dataset which is a dataset of over 5000 movies. The dataset includes information about movie titles, overviews, genres, keywords, cast, and crew.
