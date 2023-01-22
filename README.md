@@ -1,6 +1,6 @@
 # End-to-End-Movie Recommendation Engine
 
-A content-based recommender system that recommends movies similar to the movie the user likes and analyses the sentiments of the reviews given by the user.
+A content-based recommender system that recommends movies similar to the movie given by the user.
 
 Check out the live demo:https://naveenpandey27-end-to-end-movie-recommendation-engin-app-yox39e.streamlit.app/
 
