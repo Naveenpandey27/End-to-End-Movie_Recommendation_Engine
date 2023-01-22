@@ -35,3 +35,14 @@ Run the app.py file
 Select a movie from the drop-down list
 Click on the 'Recommend' button
 The recommended movies will be displayed along with their poster images.
+
+
+**Prerequisites**
+
+Python 3.6 or higher
+Streamlit
+Pandas
+Requests
+Pillow
+NLTK
+Sklearn
