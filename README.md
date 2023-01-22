@@ -4,6 +4,11 @@ A content-based recommender system that recommends movies similar to the movie t
 
 Check out the live demo:https://naveenpandey27-end-to-end-movie-recommendation-engin-app-yox39e.streamlit.app/
 
+**output**
+
+![outscree](https://user-images.githubusercontent.com/66298494/213917584-39ddc2d6-b34d-4a27-a9e9-bac3026189a2.png)
+
+
 **How to get the API key?**
 
 Create an account in https://www.themoviedb.org/. Once you successfully created an account, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for an API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request has been approved.
