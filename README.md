@@ -66,26 +66,3 @@ More about Cosine Similarity : https://towardsdatascience.com/understanding-cosi
 
 The final output is displayed as a Streamlit app where the user can select a movie from a drop-down list and then get a list of recommended movies. The recommended movies are displayed along with their poster images.
 
-
-**How to Use**
-Clone the repository to your local machine
-Install the required libraries (numpy, pandas, nltk, sklearn, ast, pickle, streamlit, requests, PIL)
-Run the app.py file
-
-
-
-**Prerequisites**
-
-Python 3.6 or higher
-
-Streamlit
-
-Pandas
-
-Requests
-
-Pillow
-
-NLTK
-
-Sklearn
